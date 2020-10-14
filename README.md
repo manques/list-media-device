@@ -17,5 +17,10 @@ import { list-media-device } from 'list-media-device';
 list-media-device();
 
 ```
+
+## NPM
+
+https://www.npmjs.com/package/list-media-device
+
 ## end
 
