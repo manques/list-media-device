@@ -7,14 +7,30 @@ list all media device your computer
 
 then...
 
-```
-assign class 'list-media-device'
 
-ex: - <div class="list-media-device"></div>
+```
 
 import { listMediaDevice } from 'listMediaDevice';
 
-list-media-device();
+listMediaDevice();
+
+
+```
+
+```
+add  class='list-media-device' 
+
+ex: - <div class="list-media-device"></div>
+
+<<<<<<< HEAD
+import { listMediaDevice } from 'listMediaDevice';
+=======
+```
+>>>>>>> 5c3e72f... bug fix
+
+```
+hint:
+ex- <script type="module" src="import-file-name.js"></script>
 
 ```
 
@@ -24,3 +40,4 @@ https://www.npmjs.com/package/list-media-device
 
 ## end
 
+npm 

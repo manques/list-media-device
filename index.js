@@ -29,4 +29,4 @@ function listMediaDevice() {
     });
 }
 
-listMediaDevice();
+module.exports = listMediaDevice;

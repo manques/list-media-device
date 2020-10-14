@@ -1,0 +1,23 @@
+{
+  "name": "list-media-device",
+  "version": "1.0.2",
+  "description": "get list of all media device ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/manques/list-media-device.git"
+  },
+  "keywords": [
+    "media",
+    "device"
+  ],
+  "author": "anup kumar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/manques/list-media-device/issues"
+  },
+  "homepage": "https://github.com/manques/list-media-device#readme"
+}
