@@ -12,7 +12,7 @@ assign class 'list-media-device'
 
 ex: - <div class="list-media-device"></div>
 
-import { list-media-device } from 'list-media-device';
+import { listMediaDevice } from 'listMediaDevice';
 
 list-media-device();
 
